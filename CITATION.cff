@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+type: dataset
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Vågerö"
+  given-names: "Oskar"
+  orcid: "https://orcid.org/0000-0002-0806-0329"
+title: "Can we optimise for justice? Reviewing the inclusion of energy justice inenergy system optimisation models"
+version: 1.0.0
+date-released: 2022-12-08
+url: "https://github.com/OskarVagero/inclusion_justice_modelling"
